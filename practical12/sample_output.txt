@@ -1,0 +1,26 @@
+Loaded 3 book(s).
+
+=== Library Management System ===
+1. Add book
+2. Search book
+3. List books
+4. Issue book
+5. Return book
+6. Save and exit
+Choice: 3
+
+ID      Title                           Author                   Status
+101     The Alchemist                   Paulo Coelho             Available
+102     Computer Networks               Andrew Tanenbaum         Available
+103     The C++ Programming Language    Bjarne Stroustrup        Issued
+
+Choice: 4
+Book ID to issue: 101
+Book issued successfully.
+
+Choice: 5
+Book ID to return: 103
+Book returned successfully.
+
+Choice: 6
+Data saved to books.csv. Goodbye!

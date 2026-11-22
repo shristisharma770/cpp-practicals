@@ -1,4 +1,4 @@
-Enter student name: Enter age: Enter marks in 3 subjects (out of 100): 
+Enter student name: Enter age: Enter marks in 3 subjects (out of 100):
 ----- RESULT -----
 Name        : Aarav Patil
 Age         : 20 (next year: 21, age % 2 = 0)
